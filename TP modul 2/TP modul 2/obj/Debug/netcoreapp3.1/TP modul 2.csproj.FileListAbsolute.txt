@@ -1,0 +1,20 @@
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\bin\Debug\netcoreapp3.1\TP modul 2.exe
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\bin\Debug\netcoreapp3.1\TP modul 2.deps.json
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\bin\Debug\netcoreapp3.1\TP modul 2.runtimeconfig.json
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\bin\Debug\netcoreapp3.1\TP modul 2.runtimeconfig.dev.json
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\bin\Debug\netcoreapp3.1\TP modul 2.dll
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\bin\Debug\netcoreapp3.1\TP modul 2.pdb
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\TP modul 2.csproj.AssemblyReference.cache
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\App.g.cs
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\TP modul 2_MarkupCompile.cache
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\TP modul 2_MarkupCompile.lref
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\TP modul 2.g.resources
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\TP modul 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\TP modul 2.AssemblyInfoInputs.cache
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\TP modul 2.AssemblyInfo.cs
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\TP modul 2.csproj.CoreCompileInputs.cache
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\TP modul 2.dll
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\TP modul 2.pdb
+D:\semester 4\7. Konstuksi perangkat lunak\praktikum\modul 2\TP KPL\TP modul 2\TP modul 2\obj\Debug\netcoreapp3.1\TP modul 2.genruntimeconfig.cache
